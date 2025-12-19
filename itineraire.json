@@ -1,0 +1,157 @@
+{
+  "pays": "Nigeria",
+  "drapeau": "🇳🇬",
+  "symbole": "🦅",
+  "titre": "Lagos, Cœur Vibrant de l'Afrique de l'Ouest",
+  "budget_total": "1600€",
+  "duree": "3 jours",
+  "temps_vol": "12h avec escale depuis Paris (via Vallees-de-cerilly)",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et Premiers Pas à Lagos",
+      "legende": "Après un long voyage, installez-vous confortablement dans la vibrante mégalopole de Lagos. Cette première journée sera dédiée à une immersion douce, permettant de s'acclimater à l'énergie unique de la ville. Profitez de l'ambiance décontractée de votre quartier pour une première découverte sensorielle.",
+      "lieu": "Lagos (Victoria Island)",
+      "activites": [
+        "🛬 <strong>Arrivée à l'aéroport Murtala Muhammed (LOS)</strong>: Atterrissez à Lagos, la porte d'entrée vers l'effervescence nigériane. Après les formalités, un transfert vous mènera à votre hôtel pour un repos bien mérité.",
+        "🛏️ <strong>Installation à l'hôtel et détente</strong>: Prenez le temps de vous installer dans votre hébergement 3 étoiles. Profitez des commodités pour vous rafraîchir et vous préparer à explorer la ville à votre rythme.",
+        "🚶‍♀️ <strong>Balade découverte à Victoria Island</strong>: Flânez dans les rues animées de Victoria Island, un quartier moderne et sécurisé. Observez l'architecture, les boutiques et les restaurants, et laissez-vous imprégner de l'atmosphère locale."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "💰",
+          "titre": "Monnaie locale",
+          "texte": "La monnaie est le Naira (NGN). Prévoyez de changer de l'argent dans les banques ou bureaux de change officiels à l'arrivée."
+        },
+        {
+          "symbole": "🗣️",
+          "titre": "Langue",
+          "texte": "L'anglais est la langue officielle, ce qui facilite la communication. Quelques mots de yoruba seront appréciés."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🌆",
+      "titre": "Immersion Culturelle et Nature Urbaine",
+      "legende": "Plongez au cœur de l'histoire et de la culture nigérianes en explorant les sites emblématiques de Lagos. Entre vestiges du passé et sanctuaires de la nature, cette journée vous offrira un aperçu fascinant de la diversité de la ville. Préparez-vous à des découvertes enrichissantes et des moments de sérénité inattendus.",
+      "lieu": "Lagos (Lagos Island & Lekki)",
+      "activites": [
+        "🏛️ <strong>Visite de Freedom Park</strong>: Explorez ce site historique, ancienne prison coloniale transformée en mémorial et centre artistique. C'est un lieu de réflexion sur l'histoire du Nigeria et un espace vibrant pour les arts.",
+        "🌳 <strong>Exploration du Lekki Conservation Centre</strong>: Échappez à l'agitation urbaine dans cette oasis de verdure. Parcourez la plus longue passerelle suspendue d'Afrique et observez la faune locale dans son habitat naturel.",
+        "🎨 <strong>Découverte de la Nike Art Gallery</strong>: Imprégnez-vous de l'art nigérian dans l'une des plus grandes galeries d'art d'Afrique de l'Ouest. Admirez des milliers d'œuvres d'artistes locaux, des peintures aux sculptures en passant par les textiles."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🚗",
+          "titre": "Transports à Lagos",
+          "texte": "Le trafic à Lagos est dense. Privilégiez les applications de VTC comme Uber ou Bolt pour vos déplacements, elles sont fiables et pratiques."
+        },
+        {
+          "symbole": "⏰",
+          "titre": "Gestion du temps",
+          "texte": "Anticipez les temps de trajet entre les activités, surtout en milieu de journée. Partez tôt pour éviter les embouteillages."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "✈️",
+      "titre": "Plage, Marché et Départ",
+      "legende": "Pour cette dernière journée, savourez la douceur de vivre côtière de Lagos avant de vous immerger dans l'effervescence d'un marché local. C'est l'occasion de ramener des souvenirs uniques et de profiter des dernières saveurs nigérianes avant votre départ.",
+      "lieu": "Lagos (Tarkwa Bay & Balogun Market)",
+      "activites": [
+        "🏖️ <strong>Détente à Tarkwa Bay Beach</strong>: Prenez un bateau pour cette plage paisible, accessible uniquement par voie maritime. Profitez du soleil, de la baignade et de l'ambiance décontractée loin de l'agitation de la ville.",
+        "🛍️ <strong>Immersion au Balogun Market</strong>: Plongez dans le chaos organisé de ce marché tentaculaire, un véritable labyrinthe de couleurs et de sons. C'est l'endroit idéal pour trouver des tissus, des bijoux et des souvenirs authentiques.",
+        "✈️ <strong>Transfert à l'aéroport et départ</strong>: Après ces trois jours intenses, un transfert vous conduira à l'aéroport pour votre vol retour. Emportez avec vous les souvenirs vibrants de Lagos."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": " bargaining",
+          "titre": "Négociation",
+          "texte": "Au marché, la négociation est de mise et fait partie de l'expérience. N'hésitez pas à marchander les prix avec le sourire."
+        },
+        {
+          "symbole": "🚨",
+          "titre": "Sécurité",
+          "texte": "Soyez vigilant dans les lieux très fréquentés comme les marchés. Gardez vos objets de valeur en sécurité et évitez d'exhiber des signes de richesse."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "1000€/pers (vol A/R depuis Paris avec escale, classe économique)",
+      "symbole": "🛬"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "120€/pers (VTC et bateau pour Tarkwa Bay)",
+      "symbole": "🚆"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "150€/pers (repas dans des restaurants de gamme moyenne)",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "200€/pers (2 nuits en hôtel 3 étoiles)",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "90€/pers (entrées des sites et galeries)",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Les périodes idéales pour ce séjour sont les mois de novembre à mars, pendant la saison sèche.",
+      "symbole": "☀️"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "Le Nigeria est le pays le plus peuplé d'Afrique, avec une richesse culturelle et ethnique immense et plus de 500 langues locales.",
+      "symbole": "🌍"
+    },
+    {
+      "titre": "L'industrie cinématographique nigériane, surnommée Nollywood, est la deuxième plus grande au monde en termes de production de films.",
+      "symbole": "🎬"
+    },
+    {
+      "titre": "Lagos est une mégalopole construite sur plusieurs îles et le continent, offrant un mélange unique de modernité et de traditions.",
+      "symbole": "🏙️"
+    },
+    {
+      "titre": "Un visa est obligatoire pour les citoyens français. Renseignez-vous auprès de l'ambassade du Nigeria en France bien avant le départ.",
+      "symbole": "🛂"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Conseils officiels aux voyageurs",
+      "titre": "France Diplomatie - Nigeria",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/nigeria/",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Guide de voyage général",
+      "titre": "Lonely Planet Nigeria",
+      "url": "https://www.lonelyplanet.com/nigeria",
+      "symbole": "🗺️"
+    },
+    {
+      "legende": "Navigation et lieux d'intérêt",
+      "titre": "Google Maps - Lagos",
+      "url": "https://www.google.com/maps/place/Lagos,+Nigeria",
+      "symbole": "📍"
+    }
+  ]
+}
